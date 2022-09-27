@@ -1,0 +1,78 @@
+---
+output:
+  html_document: default
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DSCI 521 Lab 4 Question 10</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+
+
+
+
+Courses in Block One
+
+---
+
+# DSCI 521
+
+Computing Platforms for Data Science
+- Instructor: Florencia D’Andrea
+
+---
+
+# DSCI 551
+
+Descriptive Statistics and Probability for Data Science
+- Instructor: Alexi Rodríguez-Arelis
+- We have found expected values:
+- example: Rolling a die!
+```{r}
+((1/6 * 1) + (1/6 * 2) + (1/6 * 3) + (1/6 * 4) + (1/6 * 5) + (1/6 *6))
+```
+---
+
+# DSCI 523
+
+Programming for Data Manipulation
+- Instructor: Gittu George
+- We use R for programming in this course, 
+- example:
+```{r}
+print(3+4)
+```
+
+---
+
+# DSCI 511
+
+Python Programming for Data Science
+- Instructor: Arman Seyed-Ahmadi
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
