@@ -1,0 +1,58 @@
+---
+title: "DSCI 521 Lab 4 Presentation"
+author: "Renee Kwon"
+date: "Due October 1, 2022"
+output:
+  html_document:
+    df_print: paged
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: yes
+      countIncrementalSlides: no
+subtitle: Question 10
+institute: UBC
+---
+
+## Hello ##
+Lab 4 - this is my first slide for Question 10. 
+I will list the different courses we have taken so far in MDS Block 1. 
+---
+## DSCI 521 ##
+Computing Platforms for Data Science
+- Instructor: Florencia D’Andrea
+---
+## DSCI 551 ##
+Descriptive Statistics and Probability for Data Science
+- Instructor: Alexi Rodríguez-Arelis
+---
+
+
+## DSCI 523 ##
+Programming for Data Manipulation
+- Instructor: Gittu George
+We use R for programming in this course, ex:
+```{r}
+print(3+4)
+```
+
+
+
+---
+
+
+
+## DSCI 511 ##
+Python Programming for Data Science
+- Instructor: Arman Seyed-Ahmadi
+We use python programming in this course, ex:
+
+```{r}
+print(5+5)
+```
+
+
+
+
+
